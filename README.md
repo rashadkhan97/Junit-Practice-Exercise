@@ -4,13 +4,10 @@ Welcome to my **JUnit Practice Repository!** 🎉 This repository contains a col
 
 ## 📑 Table of Contents
 
-1. [📜 About the Repository](#about-the-repository)
+1. [📜 About the Repository](#-about-the-repository)
 2. [🛠️ Key Features](#-key-features)
 3. [🚀 How to Use](#-how-to-use)
-4. [Code Highlights](#code-highlights)
-5. [Contributing](#contributing)
-6. [Acknowledgments](#acknowledgments)
-7. [Closing Note](#closing-note)
+4. [📓 Class Notes](#-class-notes)
 
 
 ## 📜 About the Repository
