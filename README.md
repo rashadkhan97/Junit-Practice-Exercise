@@ -2,6 +2,17 @@
 ## 📂 JUnit Practice Exercises
 Welcome to my **JUnit Practice Repository!** 🎉 This repository contains a collection of exercises I completed during my training sessions to strengthen my skills in JUnit testing. Each exercise showcases a practical implementation of various testing concepts, providing insights into how to ensure code quality and reliability using JUnit.
 
+## 📑 Table of Contents
+
+1. [📜 About the Repository](#about-the-repository)
+2. [🛠️ Key Features](#-key-features)
+3. [🚀 How to Use](#-how-to-use)
+4. [Code Highlights](#code-highlights)
+5. [Contributing](#contributing)
+6. [Acknowledgments](#acknowledgments)
+7. [Closing Note](#closing-note)
+
+
 ## 📜 About the Repository
 
 - **Purpose**: To demonstrate my learning and hands-on experience with JUnit, covering essential concepts such as unit testing, assertions, test annotations, and lifecycle methods.
@@ -10,6 +21,7 @@ Welcome to my **JUnit Practice Repository!** 🎉 This repository contains a col
   - **Programming Language**: Java
   - **Testing Framework**: JUnit
   - **IDE**: IntelliJ IDEA / Eclipse (as applicable)
+ 
 
 ## 🛠️ Key Features
 
@@ -66,6 +78,14 @@ Welcome to my **JUnit Practice Repository!** 🎉 This repository contains a col
 
 - **Page Scrolling**:  
   It includes a utility for scrolling to specific web page sections to enable seamless element interaction.
+
+
+## 📓 Class Notes
+
+I’ve documented my learning journey and insights in a detailed Google Docs file. You can explore the notes for a deeper understanding of the concepts I’ve covered.
+
+[📝 View My Class Notes on Google Docs](https://docs.google.com/document/d/1Iz0V3nOK6YBPFcquhw01vjkpY17q-muXz_Ol6lAHjPU/edit?usp=sharing) 
+
 
 
 ## 🚀 How to Use
