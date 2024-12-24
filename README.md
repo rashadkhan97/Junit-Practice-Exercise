@@ -80,7 +80,8 @@ Welcome to my **JUnit Practice Repository!** 🎉 This repository contains a col
 ## 📓 Class Notes
 
 I’ve documented my learning journey and insights in a detailed Google Docs file. You can explore the notes for a deeper understanding of the concepts I’ve covered. 
-[📝 View My Class Notes on Google Docs](https://docs.google.com/document/d/1Iz0V3nOK6YBPFcquhw01vjkpY17q-muXz_Ol6lAHjPU/edit?usp=sharing) 
+
+--> [📝 View My Class Notes on Google Docs](https://docs.google.com/document/d/1Iz0V3nOK6YBPFcquhw01vjkpY17q-muXz_Ol6lAHjPU/edit?usp=sharing) 
 
 
 
