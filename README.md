@@ -56,7 +56,7 @@ Welcome to my **JUnit Practice Repository!** 🎉 This repository contains a col
 - **Web Table Scraping**:  
   Extracts and prints data from web tables, demonstrating:
   - Iteration through rows and cells.
-  - Use of CSS selectors for precise data extraction.
+  - CSS selectors are used for precise data extraction.
 
 - **Frame Handling**:  
   Interacts with iframe elements by switching contexts using `driver.switchTo().frame`.
@@ -65,4 +65,25 @@ Welcome to my **JUnit Practice Repository!** 🎉 This repository contains a col
   Uses `driver.manage().timeouts().implicitlyWait` to handle synchronization and improve test stability.
 
 - **Page Scrolling**:  
-  Includes utility for scrolling to specific sections of a webpage to enable seamless element interaction.
+  It includes a utility for scrolling to specific web page sections to enable seamless element interaction.
+
+
+## 🚀 How to Use
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/rashadkhan97/Junit-Practice-Exercise.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd Junit-practice-exercises
+    ```
+
+3. Open the project in your favorite Java IDE and explore the exercises!
+
+---
+
+This repository reflects my dedication to learning and mastering software testing using JUnit. If you find any insights or improvements, feel free to raise an issue or contribute through a pull request. 🌟
